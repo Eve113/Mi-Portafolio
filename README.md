@@ -28,7 +28,7 @@ El repositorio está compuesto por los siguientes archivos:
 ## Cómo visualizar el proyecto
 
 Puedes acceder al portafolio directamente desde Vercel en el siguiente enlace:
-[![Ver en Vercel](https://vercel.com/button)](https://sddfjso.vercel.app)
+[![Ver en Vercel](https://vercel.com/button)](https://mi-portafolio-ten-phi.vercel.app/)
 
 O si deseas ejecutarlo localmente:
 
